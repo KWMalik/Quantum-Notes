@@ -9,14 +9,5 @@ Double-slit experiment
 ---
 
 - Given an initial source, say an electron gun, and a barrier with 2 slits in it that protects a second wall with a detection mechanism on it, what are the results. 
-- The scenario is such that, as the source is spraying electrons, only a fiew end up making it through the 2 slits. Visualized below: 
+- The scenario is such that, as the source is spraying electrons, only a few end up making it through the 2 slits.
 
-<p>
-           |     |     |   <- Wall with detection mechanism. 
-           |     |     |
-           |           |
-   Source X      |     |
-           |           |
-           |     |     |
-           |     |     |
-</p>
