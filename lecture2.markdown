@@ -14,8 +14,8 @@ Superposition Axiom
 - Superposition principle: if a system can be in one of k states, it can also be in any linear superposition of those k states. 
 - Superposition can be described as: 
 
-a = (alpha) amplitude probability a0 = a sub zero 
-ai E C == "probability amplitude" 
+a = (alpha) amplitude probability a0 = a sub zero
+ai E C == "probability amplitude"
 
 > a0|0> + a1|1> + ... + ak|k-1> 
 - The sum of the <i>squares</i> of these amplitudes is always 1. 
@@ -28,3 +28,5 @@ ai E C == "probability amplitude"
 - i can also = sqrt(-1) 
 - this means that you can have
 > 1/2|0> - 1/2|1> + (1/2 + i/2)|2> 
+
+

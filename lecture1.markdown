@@ -32,3 +32,5 @@ Double-slit experiment
 - We can however describe the height of intensity as I(X) = h(X)^2, where h(X) is the height of the wave. 
 - And the height at any given point when both slits are open is described as h12(X) = h1(X) + h2(X) 
 - So we can say that <b>I12(X) = h12(X)^2</b> != h1(X)^2 + h2(X)^2
+
+<img href="/images/slit-experiment.png"/>
