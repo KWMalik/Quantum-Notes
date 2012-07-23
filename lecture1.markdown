@@ -33,4 +33,4 @@ Double-slit experiment
 - And the height at any given point when both slits are open is described as h12(X) = h1(X) + h2(X) 
 - So we can say that <b>I12(X) = h12(X)^2</b> != h1(X)^2 + h2(X)^2
 
-![Screenshot](/images/slit-experiment.png "slit-experiment")
+![Screenshot](https://github.com/WillDignazio/Quantum-Notes/blob/master/images/slit-experiment.png "slit-experiment")
