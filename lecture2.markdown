@@ -82,10 +82,36 @@ Review and Computation
 > u with probability cos^2(theta)           |u> 
 > u^t (perpendicular) with prob sin^2(theta)|u^t> 
 
+- Note that when observed, it collapses into the ground state or excited state. 
+
+> State Vector: |Y> a0|0? + a1|1> 
+
+> |u> = B0|0> + B1|1> 
+
+> |u^t> = -B1|0> + B0|1>
 
 - For qubits, there is a particularly important basis called "sign basis."
 > |+> = 1/sqrt(2)|0> + 1/sqrt(2)|1>
 > |-> = 1/sqrt(2)|0> - 1/sqrt(2)|1>
 
 - Can we distinguish from |+> from |->? 
-- - Yes by measure in |+>/|-> basis: 
+- Short anwswer, yes. 
+> |+> :     0 with probability of 1/2   |0> 
+>           1 with probability of 1/2   |1>
+> |-> :     0 with probability of 1/2   |0> 
+>           1 with probability of 1/2   |1> 
+
+- So we need to measure it on a different basis. 
+- Measure in |+> / |-> basis : 
+> |+> :     + with probability 1    |+> 
+>           - with probability 0    |->
+> |-> :     + with probability 0    
+>           - with probability 1
+
+An Exercise in Linear Algebra
+=============================
+Method 1 - Compute the inner product
+---
+- Measure |Y> = 1/2|0> + sqrt(3)/2|1>  in |+> / |-> basis: 
+- Pr[+] = |(|Y>, |+>_|^2 
+
